@@ -79,6 +79,9 @@ hr {
   margin-bottom: 10%;
   padding: 2%;
 }
+.btn {
+    margin-top: 8%;
+  }
 @media (max-width: 769px) and (max-width: 1028px) {
 
   body {
@@ -115,5 +118,11 @@ hr {
   }
   .name {
   font-size: 50px;
+  }
+   .btn {
+    margin-top: 8%;
+    width: 30%;
+    height: 18%;
+    font-size: 60%;
   }
 }
