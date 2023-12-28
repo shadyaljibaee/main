@@ -4,7 +4,7 @@ body {
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size:cover;
-   font-family: cursive;
+   font-family:sans-serif;
 }
 /*.container-fluid-top {
   padding: 2% 2%;
@@ -87,6 +87,7 @@ hr {
      background-repeat: no-repeat;
      background-attachment: fixed;
      background-size:cover;
+     font-family:sans-serif;
   }
 
   h1 {
